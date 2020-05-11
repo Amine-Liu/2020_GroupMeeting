@@ -49,6 +49,7 @@
 
 ## 2020-05-07,2:00pm
 * Speaker: Bairu
+* Title:Ashley, J., Cordy, B., Lucia, D., Fradkin, L.G., Budnik, V., and Thomson, T. (2018). Retrovirus-like Gag Protein Arc1 Binds RNA and Traffics across Synaptic Boutons. Cell 172, 262-274 e211.
 
 ## 2020-05-14,2:00pm
 * Speaker: Yiting
